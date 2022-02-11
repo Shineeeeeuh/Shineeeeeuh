@@ -3,7 +3,7 @@ I'm Shine ✨, I create some Minecraft Plugins, API and Website.
 
 I'm currently working on StrikePVP (Admin) and ArkemisMC (Developper) 🔥
 
-### Codes ☕
+### Main language ☕
   - Java
   - Python
   - NodeJS
